@@ -1,0 +1,68 @@
+@media (max-width:1170px) {
+    .headerleft a{
+        font-size: 20px;
+        
+        
+    }
+  .headerright  ul li a{
+font-size: 10px;
+text-decoration: none;
+color: brown;
+padding: 0px 10px;
+
+    }
+    
+
+}
+@media(max-width:1300px){
+.font{
+    padding: 0px 25px;
+    font-size: 20px
+}
+.contentright .contentone h3{
+    margin-top: 20px ;
+    margin-bottom: 20px;
+}
+.contentleft img{
+    width: 300px;
+}
+
+.listitem i{
+    font-size: 10px;
+}
+}
+@media (max-width:1000px) {
+    .headerleft{
+        float: none;
+        width: 100%;
+        text-align: center;
+        font-size: 30px;
+        padding-top: 30px;
+    }
+    .headerleft a{
+        float: none;
+        width: 100%;
+        text-align: center;
+        font-size: 30px;
+        padding-top: 30px;
+    }
+    .header{
+        background: #1abc9c;
+        height: 200px;
+    }
+    .headerright{
+        float: none;
+        width: 100%;
+    }
+    .headerright ul{
+        text-align: center;
+    }
+    .bgimg{
+        max-width: 100%;
+    }
+    .list{
+        background-color: #1abc9c;
+        height: 200px;
+        
+    }
+}
